@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chris
 - 🎓 I'm currently a college student.
-- 👀 I’m interested in Cybersecurity and Software engineering, but I also like learning about robotics and AI.
+- 👀 I’m interested in AI and Software engineering, but I also like learning about robotics and cybersecurity.
 - 🌱 I’m currently teaching myself programming languages such as Python and Java.
-- 💞️ I’m hoping to collaborate on web development projects, video games, web scrapers, and APIs
+- 💞️ I’m hoping to collaborate on web development projects, video games, web scrapers, and AI development programs.
 - 📫 How to reach me:
 - Email: chrisb.9085@gmail.com
 - 😄 Pronouns: Male, he/him
